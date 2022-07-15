@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 19 23:12:17 2022
 
-@author: Manuel
+@author: Érica e Manel
 """
 #Pytorch imports
 import torch
