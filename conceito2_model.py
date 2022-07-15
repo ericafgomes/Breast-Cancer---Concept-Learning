@@ -176,7 +176,7 @@ if __name__ == "__main__":
     #Passing to GPU cuda
     model.to(device)
     
-    num_epochs=2
+    num_epochs=150
     
     # training the model using 'trainset'
     for epoch in tqdm.tqdm(range(num_epochs)): 
