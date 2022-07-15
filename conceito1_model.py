@@ -169,7 +169,7 @@ if __name__ == "__main__":
     # Passing to GPU cuda
     model.to(device)
     
-    num_epochs=7
+    num_epochs=150
     
     # training the model using 'trainset'
     for epoch in range(num_epochs): 
